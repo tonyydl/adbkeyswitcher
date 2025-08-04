@@ -4,7 +4,7 @@ The switcher allow user to specify adbkey settings.
 ## Installation
 
 ```
-$ git clone git@github.com:tonyyang924/adbkeyswitcher.git
+$ git clone git@github.com:tonyydl/adbkeyswitcher.git
 $ chmod +x adbkeyswitcher/switch_adbkey.sh  
 $ ./adbkeyswitcher/switch_adbkey.sh set default ~/adbkey_store/adbkey:adbkey,~/adbkey_store/adbkey.pub:adbkey.pub
 $ ./adbkeyswitcher/switch_adbkey.sh set work ~/adbkey_store/work_adbkey:adbkey
